@@ -1,4 +1,4 @@
-## Nicky 💡 | Estudiante de Ingeniería de Sistemas
+## Nicky ✨ | Estudiante de Ingeniería de Sistemas
 Apasionada por la tecnología, las soluciones inteligentes y los nuevos desafíos.
 
 🧠 "El código se puede romper, pero la constancia nunca."
