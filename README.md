@@ -2,7 +2,6 @@
 Apasionada por la tecnología, las soluciones inteligentes y los nuevos desafíos.
 
 🧠 "El código se puede romper, pero la constancia nunca."
-
 🚀 En construcción constante, como todo buen sistema. 
 
 <!--
