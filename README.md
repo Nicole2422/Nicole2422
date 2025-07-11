@@ -1,4 +1,9 @@
-## Hi there 👋
+## Nicky 💡 | Estudiante de Ingeniería de Sistemas
+Apasionada por la tecnología, las soluciones inteligentes y los nuevos desafíos.
+
+🧠 "El código se puede romper, pero la constancia nunca."
+
+🚀 En construcción constante, como todo buen sistema. 
 
 <!--
 **Nicole2422/Nicole2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
